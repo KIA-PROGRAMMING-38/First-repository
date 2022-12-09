@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git Is Hell
+=======
+Cat is Everything
+>>>>>>> b4ae9ad5f99a4b2fb1f4e6ec66b3dd0197b3c29f
